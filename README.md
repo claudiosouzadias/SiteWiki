@@ -13,8 +13,10 @@
 
 # 📁 Acesso ao projeto
 
-**Você pode acessar o [site]([coelho-brabo.vercel.app) diretamente ou [acessar](https://github.com/Z3R1NH0/Rabit-Food.git) os arquivos do progama.**
+**Você pode acessar o [site]([https://site-wiki.vercel.app) diretamente ou [acessar](https://github.com/claudiosouzadias/SiteWiki.git) os arquivos do progama.**
 
 # 🛠️ Abrir e rodar o projeto
 
 Ao baixar o arquivo você pode executa-lo com qualquer editor compativel, neste projeto foi usado Visual Studio Code.
+
+![image](https://github.com/user-attachments/assets/de3dece3-c07a-4589-8abc-f91f034a1f8e)
